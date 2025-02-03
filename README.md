@@ -2,9 +2,9 @@
 
 <span style="color:blue"> ciao amico </span>
 
-# lezione di oggi
+## lezione di oggi
 
-<span style="color:blue">modo blue text</span>
+<span style="color:blue">modo blue text</span> 
 
 # About Laravel
 
