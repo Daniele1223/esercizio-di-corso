@@ -10,6 +10,9 @@
                 exercitationem praesentium nihil.
         </p>
 <h2 class="font-bold text-2xl mb-2">This is My Blog Title</h2>
+ <button class="mt-4 bg-blue-500 text-white font-bold py-2 px-4 rounded">
+            Read More
+        </button>
 
 # About Laravel     
 
