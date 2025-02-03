@@ -5,6 +5,11 @@
 ## lezione di oggi
 
 <span style="color:blue">modo blue text</span> 
+<p class="mt-3 text-gray-600 text-base">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque,
+                exercitationem praesentium nihil.
+        </p>
+<h2 class="font-bold text-2xl mb-2">This is My Blog Title</h2>
 
 # About Laravel     
 
